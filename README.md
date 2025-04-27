@@ -1,6 +1,6 @@
 # kotlin-lotto-precourse
 
-## LotteryTicektIssueEngine
+## LottoEngine
 - The Engine must receive costs more than 1,000 KRW.
 - The Engine must issue tickets the amount is divided by 1,000 KRW.
 - The criteria and prize rules

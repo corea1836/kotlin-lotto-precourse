@@ -13,9 +13,6 @@
 - The Engine must thorws an Exception(only IllegalArgumentException or IllegalStateException) and re-prompt input from that step, if the user inputs invalid data.
 
 
-
-
-
-## LotteryTicket
-- The ticekt must consitst of unique numbers in the range from 1 to 45.
-- The ticket must contain bonus number is a single, separate number.
+## Lotto
+- The Lotto must consitst of unique numbers in the range from 1 to 45.
+- The Lotto must contain bonus number is a single, separate number.
